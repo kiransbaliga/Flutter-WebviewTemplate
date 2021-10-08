@@ -1,7 +1,7 @@
 # Webview_Template
  
 Easily convert a website into an app with this template.
-<img src="https://ih1.redbubble.net/image.1187851051.8476/flat,750x,075,f-pad,750x1000,f8f8f8.jpg">
+<img src="https://www.real.discount/wp-content/uploads/2020/10/3291360_704d_4.jpg">
 
 > Getting Started
 
