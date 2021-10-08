@@ -4,9 +4,15 @@ Easily convert a website into an app with this template.
 
 > Getting Started
 
-* Clone the repository to your pc.
-* Open lib/main.dart
+* Clone the repository to your desktop.
+* Open lib/main.dart from the folder Flutter-WebviewTemplate
 * replace the link with your desired link destination.
-* Build the app using flutter.
+* Build the app using the command- <br> <br> 
+```  
+ flutter build apk 
+ 
+```
+And thats it You have created your own easy webview app!!!
+
 
 If you dont have flutter [Click here](https://flutter.dev/) to install.
