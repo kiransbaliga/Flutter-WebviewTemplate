@@ -62,20 +62,6 @@ Future<bool> _onWillPop(BuildContext context) async {
       onWillPop: () => _onWillPop(context),
        
       child: Scaffold(
-        // appBar: AppBar(
-        //   actions: [
-        //     IconButton(
-        //       icon:Icon(Icons.arrow_back),
-        //       onPressed: () {
-        //         _goBack();
-        //       }),
-        //     IconButton(
-        //       icon:Icon(Icons.arrow_forward),
-        //       onPressed: () {
-        //         _goForward();
-        //       }),
-        //   ],
-        // ),
         body: SafeArea(
           child: WebView(
           // Replace the below link with the link that you desire!
