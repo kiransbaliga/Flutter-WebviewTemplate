@@ -1,6 +1,6 @@
 # Webview_Template
 
-<img src="https://www.real.discount/wp-content/uploads/2020/10/3291360_704d_4.jpg">
+<img src="https://venturebeat.com/wp-content/uploads/2018/02/google-flutter-logo.png?fit=1600%2C800&strip=all">
 Easily convert a website into an app with this template.
 Its simple and fun
 
