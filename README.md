@@ -2,7 +2,7 @@
 
 <img src="https://www.real.discount/wp-content/uploads/2020/10/3291360_704d_4.jpg">
 Easily convert a website into an app with this template.
-its simple and fun
+Its simple and fun
 
 > Getting Started
 
